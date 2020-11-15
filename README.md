@@ -1,2 +1,2 @@
 # dotfiles
-personal dotfile config
+personal Arch dotfile config
